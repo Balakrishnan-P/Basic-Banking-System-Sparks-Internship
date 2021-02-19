@@ -1,2 +1,6 @@
 # Basic-Banking-System-Sparks-Internship
-This simple Banking Project is done as a part of Internship at The Sparks Foundation.
+This is a Basic Banking System - Project, done as a part of Internship at The Sparks Foundation.
+Technologies use:
+Front-End: HTML5, CSS3 & Javascript
+Back-End: PHP
+Database: MySQL.
