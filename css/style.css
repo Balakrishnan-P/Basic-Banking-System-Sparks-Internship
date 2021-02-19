@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.sect{
+    padding:50px;
+}
+.waves-effect{
+    margin-top: 30px;
+}
+.head{
+    top:0;
+    padding: 0.5px;
+    font-family: Alegreya Sans SC;
+    background: #f6f5f5;
+}
+.footer{
+    background: #c7ffd8;
+    margin-bottom: 0;
+    bottom: 0;
+    padding: 10px;
+}
+.info{
+    font-weight: 500;
+}
